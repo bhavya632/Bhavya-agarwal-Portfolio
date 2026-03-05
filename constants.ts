@@ -8,7 +8,7 @@ export const RESUME_DATA: ResumeData = {
     phone: "+1 (413)-315-0000",
     linkedin: "https://www.linkedin.com/in/bhavyagarwal/",
     github: "https://github.com/bhavya632",
-    resume: 'https://drive.google.com/file/d/1qZseONJHMsyrxT1vKocjz6yz4pOaOtey/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1BMHaN4ilC2b8QqyGMd5k5SkM-cqBHUQa/view?usp=sharing',
     location: "Amherst, MA"
   },
   education: {
