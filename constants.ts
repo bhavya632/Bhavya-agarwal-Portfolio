@@ -133,10 +133,10 @@ export const RESUME_DATA: ResumeData = {
       technologies: ["Python", "Data Visualization", "Pandas", "NumPy", "tqdm"]
     },
     {
-      title: "CharacterGPT",
+      title: "Word Count Chrome Extension",
       association: "UMass Amherst",
       period: "Jan 2026 – Feb 2026",
-      github_repo: "https://github.com/bhavya632/CharacterGPT.git",
+      github_repo: "https://github.com/bhavya632/WordCount-ChromeExtension.git",
       points: [
        "A lightweight Chrome Extension that allows you to count words in any highlighted text directly from the right-click context menu. No copy-pasting required!"
       ],
