@@ -102,7 +102,7 @@ export const RESUME_DATA: ResumeData = {
       title: "Road Safety Intelligence Model",
       association: "Break Through Tech — Michelin Mobility Intelligence",
       period: "Sept 2024 – Dec 2024",
-      github_repo: "https://github.com/bhavya632/AirBnb-Superhost-and-Price-Prediction-model.git",
+      github_repo: "https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM.git",
       points: [
        "Designed a data-driven ML solution deployed in a cloud-based environment to detect and classify risk zones, demonstrating that LLM-powered automation for geospatial analysis improved detection accuracy by 25%.",
        "Created natural language interface in Google Colab, automating data processes and reducing processing time by 40% implementing data preprocessing and visualization workflows."
@@ -113,7 +113,7 @@ export const RESUME_DATA: ResumeData = {
       title: "Airbnb Superhost and Price Prediction Models",
       association: "Personal Project",
       period: "May 2025 - Aug 2025",
-      github_repo: "https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM.git",
+      github_repo: "https://github.com/bhavya632/AirBnb-Superhost-and-Price-Prediction-model.git",
       points: [
        "Built an end-to-end ML pipeline in Python using feature engineering and gradient boosting for price prediction and Superhost classification; visualized key drivers with Matplotlib and Seaborn.",
        "Superhost Prediction: Implemented a regression model to predict Superhost, achieving an accuracy score of 0.69.",
