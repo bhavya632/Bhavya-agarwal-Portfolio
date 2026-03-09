@@ -14,7 +14,6 @@ export interface ExperienceItem {
 export interface EducationItem {
   school: string;
   degree: string;
-  gpa: string;
   graduation: string;
   coursework: string[];
 }

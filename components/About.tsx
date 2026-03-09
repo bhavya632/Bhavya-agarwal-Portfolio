@@ -17,7 +17,6 @@ const About: React.FC = () => {
               <span className="text-accent font-mono">{RESUME_DATA.education.graduation}</span>
             </div>
             <p className="text-xl text-slate-300 mb-2">{RESUME_DATA.education.degree}</p>
-            <p className="text-slate-400 mb-6">GPA: <span className="text-white font-semibold">{RESUME_DATA.education.gpa}</span></p>
 
             <div className="mb-4">
               <h4 className="flex items-center gap-2 text-lg font-semibold text-white mb-3">
