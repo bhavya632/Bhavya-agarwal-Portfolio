@@ -8,13 +8,12 @@ export const RESUME_DATA: ResumeData = {
     phone: "+1 (413)-315-0000",
     linkedin: "https://www.linkedin.com/in/bhavyagarwal/",
     github: "https://github.com/bhavya632",
-    resume: 'https://drive.google.com/file/d/1BMHaN4ilC2b8QqyGMd5k5SkM-cqBHUQa/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1AYGBLdzGBBh9cQnOLNfGVEwW3KqN5J-3/view?usp=sharing',
     location: "Amherst, MA"
   },
   education: {
     school: "University of Massachusetts, Amherst",
     degree: "B.S. in Computer Science and Statistics",
-    gpa: "3.4",
     graduation: "May 2027",
     coursework: [
       "Data Structures",
@@ -29,7 +28,8 @@ export const RESUME_DATA: ResumeData = {
       "Computer Systems",
       "Statistics",
       "Azure: AI Fundamentals",
-      "Statistics in Data Science"
+      "Statistics in Data Science",
+      "Applications of NLP"
     ]
   },
   skills: [
