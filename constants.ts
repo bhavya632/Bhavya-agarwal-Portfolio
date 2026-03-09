@@ -102,7 +102,7 @@ export const RESUME_DATA: ResumeData = {
       title: "Road Safety Intelligence Model",
       association: "Break Through Tech — Michelin Mobility Intelligence",
       period: "Sept 2024 – Dec 2024",
-      github_repo: "https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM.git",
+      github_repo: "https://github.com/bhavya632/Road-safety-LLM.git",
       points: [
        "Designed a data-driven ML solution deployed in a cloud-based environment to detect and classify risk zones, demonstrating that LLM-powered automation for geospatial analysis improved detection accuracy by 25%.",
        "Created natural language interface in Google Colab, automating data processes and reducing processing time by 40% implementing data preprocessing and visualization workflows."
